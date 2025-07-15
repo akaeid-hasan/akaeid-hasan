@@ -165,17 +165,23 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
 </p>
 
 
+## GitHub Stats
 
-### Badges
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&theme=tokyonight&hide=prs,issues&hide_border=false&border_radius=10&custom_title=Akaeid%20Hasan's%20GitHub%20Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaeid-hasan&layout=compact&theme=tokyonight&hide_border=false&border_radius=10"/>
+    </td>
+  </tr>
+</table>
 
-<b>My GitHub Stats</b>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akaeid-hasan&label=Profile%20Views&color=brightgreen&style=flat-square"/>
+</p>
 
-<a href="http://www.github.com/akaeid-hasan"><img src="https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akaeid-hasan's GitHub stats" /></a>
 
-<a href="http://www.github.com/akaeid-hasan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akaeid-hasan&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/akaeid-hasan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaeid-hasan&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
