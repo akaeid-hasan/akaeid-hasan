@@ -26,7 +26,7 @@
   </a>
 
   <!-- View Projects (fixed icon) -->
-  <a href="#projects : https://www.behance.net/akaeidhasan" target="_blank">
+  <a href="#projects:https://www.behance.net/akaeidhasan" target="_blank">
     <img src="https://img.shields.io/badge/View%20Projects-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
   </a>
 
