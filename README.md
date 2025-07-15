@@ -38,7 +38,7 @@ I’m **Akaeid Hasan,** a **Frontend Developer specializing in WordPress website
 
 **I focus on creating user-friendly and professional websites using WordPress.** I also have working knowledge of Shopify, HTML, CSS, JavaScript, and basic React, which helps me bring more flexibility and control into my work.
 
-I believe in clean design, solid performance, and delivering websites that align with business goals and leave a lasting impact.
+My goal is to create websites with clean designs and strong performance, which fulfill the client's business objectives and leave a lasting positive impact.
 
 <a href="https://www.github.com/akaeid-hasan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/akaeid-hasan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AkaeidHasanAH" target="_blank" rel="noreferrer"><img
