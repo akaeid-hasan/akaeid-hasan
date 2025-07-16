@@ -49,7 +49,9 @@ My goal is to create websites with clean designs and strong performance, which f
 <a href="https://www.github.com/akaeid-hasan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/akaeid-hasan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AkaeidHasanAH" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a> <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akaeid-hasan&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views Counter" />
+</p>
 
 ### Skills
 
@@ -186,9 +188,17 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
   <img src="https://github-profile-trophy.vercel.app/?username=akaeid-hasan&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophy" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akaeid-hasan&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views Counter" />
-</p>
+---
+
+<!--### 📄 License
+
+This GitHub profile design and content is licensed under  
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
+You may not use, reproduce, or modify this content for commercial or derivative use without permission.
+
+🔗 [Read Full License Terms Here](./LICENSE)-->
+
+---
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
