@@ -1,9 +1,14 @@
+<!-- 👋 Hand Wave Animation with Heading -->
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi I’m Akaeid Hasan
 ====================================================================================================================================
 
-## Front-End Web Developer | WordPress & Elementor Specialist
-<!-- 🎯 Call to Action Buttons -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+##  Front-End Web Developer | WordPress & Elementor Specialist
+
+
+
+
+
+
 
   <!-- Download CV -->
   <a href="https://akaeidhasan.com/wp-content/uploads/2025/07/Akaeid-Hasan-CV.pdf" target="_blank">
@@ -165,23 +170,24 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
 </p>
 
 
-## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&theme=tokyonight&hide=prs,issues&hide_border=false&border_radius=10&custom_title=Akaeid%20Hasan's%20GitHub%20Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaeid-hasan&layout=compact&theme=tokyonight&hide_border=false&border_radius=10"/>
-    </td>
-  </tr>
-</table>
+
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akaeid-hasan&label=Profile%20Views&color=brightgreen&style=flat-square"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Akaeid%20Hasan's%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaeid-hasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=akaeid-hasan&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophy" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akaeid-hasan&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views Counter" />
+</p>
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
