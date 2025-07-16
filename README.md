@@ -1,4 +1,3 @@
-
 <!-- 👋 Hand Wave Animation with Heading -->
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi I’m Akaeid Hasan
 ====================================================================================================================================
@@ -199,6 +198,11 @@ You may not use, reproduce, or modify this content for commercial or derivative 
 🔗 [Read Full License Terms Here](./LICENSE)-->
 
 ---
+## License
+
+This project is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
