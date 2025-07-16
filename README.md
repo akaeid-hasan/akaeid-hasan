@@ -175,17 +175,12 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
 
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Akaeid%20Hasan's%20GitHub%20Stats" alt="GitHub Stats" />
-</p>
+![Akaeid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaeid-hasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=akaeid-hasan&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophy" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaeid-hasan&layout=compact&theme=radical)
+
+
 
 ---
 
@@ -203,6 +198,7 @@ You may not use, reproduce, or modify this content for commercial or derivative 
 This project is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
