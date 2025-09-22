@@ -11,7 +11,7 @@
 
 
   <!-- Download CV -->
-  <a href="https://akaeidhasan.com/wp-content/uploads/2025/07/Akaeid-Hasan-CV.pdf" target="_blank">
+  <a href="https://akaeidhasan.com/wp-content/uploads/2025/09/Akaeid-Hasan-CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20My%20CV-0073B1?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download My CV"/>
   </a>
 
