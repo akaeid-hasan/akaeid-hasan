@@ -125,69 +125,33 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
 ## Technologies & Skills
 
-<img src="./assets/icons/skills.svg" height="28" width="28" alt="skills section icon" />
-
-<p align="center"><strong>WordPress • Elementor • WooCommerce • HTML5 • CSS3 • JavaScript • Tailwind CSS • Bootstrap • React • Firebase • Figma</strong></p>
-
 <p align="center">
-  <!-- WordPress -->
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" width="40" height="40"/>
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="40" height="40"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-16382F?style=flat-square&logo=wordpress&logoColor=72E5B0" alt="WordPress" height="28" /></a>
+  <a href="https://elementor.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Elementor-16382F?style=flat-square&logo=elementor&logoColor=72E5B0" alt="Elementor" height="28" /></a>
+  <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WooCommerce-16382F?style=flat-square&logo=woocommerce&logoColor=72E5B0" alt="WooCommerce" height="28" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-16382F?style=flat-square&logo=html5&logoColor=72E5B0" alt="HTML5" height="28" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-16382F?style=flat-square&logo=css3&logoColor=72E5B0" alt="CSS3" height="28" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-16382F?style=flat-square&logo=javascript&logoColor=72E5B0" alt="JavaScript" height="28" /></a>
+  <br/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind%20CSS-16382F?style=flat-square&logo=tailwindcss&logoColor=72E5B0" alt="Tailwind CSS" height="28" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-16382F?style=flat-square&logo=bootstrap&logoColor=72E5B0" alt="Bootstrap" height="28" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-16382F?style=flat-square&logo=react&logoColor=72E5B0" alt="React" height="28" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-16382F?style=flat-square&logo=firebase&logoColor=72E5B0" alt="Firebase" height="28" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-16382F?style=flat-square&logo=figma&logoColor=72E5B0" alt="Figma" height="28" /></a>
 </p>
 
 ### Skills Overview
 
 | Skill | Progress |
 | :--- | :--- |
-| **WordPress** | ![WordPress 75%](https://geps.dev/progress/75?dangerColor=41b983&warningColor=41b983&successColor=41b983) **75%** |
-| **Elementor** | ![Elementor 97%](https://geps.dev/progress/97?dangerColor=41b983&warningColor=41b983&successColor=41b983) **97%** |
-| **WooCommerce** | ![WooCommerce 85%](https://geps.dev/progress/85?dangerColor=41b983&warningColor=41b983&successColor=41b983) **85%** |
-| **HTML** | ![HTML 85%](https://geps.dev/progress/85?dangerColor=41b983&warningColor=41b983&successColor=41b983) **85%** |
-| **CSS** | ![CSS 75%](https://geps.dev/progress/75?dangerColor=41b983&warningColor=41b983&successColor=41b983) **75%** |
-| **Tailwind CSS** | ![Tailwind CSS 65%](https://geps.dev/progress/65?dangerColor=41b983&warningColor=41b983&successColor=41b983) **65%** |
-| **JavaScript** | ![JavaScript 45%](https://geps.dev/progress/45?dangerColor=41b983&warningColor=41b983&successColor=41b983) **45%** |
-| **React JS** | ![React JS 45%](https://geps.dev/progress/45?dangerColor=41b983&warningColor=41b983&successColor=41b983) **45%** |
+| **WordPress** | ![WordPress 75%](https://geps.dev/progress/75?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
+| **Elementor** | ![Elementor 97%](https://geps.dev/progress/97?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
+| **WooCommerce** | ![WooCommerce 85%](https://geps.dev/progress/85?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
+| **HTML** | ![HTML 85%](https://geps.dev/progress/85?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
+| **CSS** | ![CSS 75%](https://geps.dev/progress/75?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
+| **Tailwind CSS** | ![Tailwind CSS 65%](https://geps.dev/progress/65?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
+| **JavaScript** | ![JavaScript 45%](https://geps.dev/progress/45?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
+| **React JS** | ![React JS 45%](https://geps.dev/progress/45?dangerColor=41b983&warningColor=41b983&successColor=41b983) |
 
 > I primarily work with WordPress and Elementor, while continuing to strengthen my frontend development skills in JavaScript and React.
 
