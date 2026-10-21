@@ -5,7 +5,7 @@
   <h1>Hi, I'm Akaeid Hasan <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="34" alt="Waving hand animation" /></h1>
   <h3>Front-End Web Developer | WordPress &amp; Elementor Specialist</h3>
   <p><strong>WordPress Developer • Elementor &amp; WooCommerce • Responsive Web Design • Website Performance</strong></p>
-  <p>📍 Bangladesh &nbsp; | &nbsp; 🌐 <a href="https://akaeidhasan.com/">akaeidhasan.com</a></p>
+  <p>Bangladesh &nbsp; | &nbsp; <a href="https://akaeidhasan.com/">akaeidhasan.com</a></p>
   <p>Building fast, responsive, user-friendly websites and practical WordPress solutions.</p>
 
 <!-- Download CV -->
@@ -38,15 +38,17 @@
 ---
 
 <p align="center">
-  <a href="#about-akaeid-hasan">About</a> •
-  <a href="#what-i-do">Services</a> •
-  <a href="#featured-public-projects">Projects</a> •
-  <a href="#technologies--skills">Skills</a> •
-  <a href="#github-activity">GitHub Stats</a> •
-  <a href="#connect-with-me">Contact</a>
+  <a href="#about-akaeid-hasan"><img alt="About" src="https://img.shields.io/badge/About-173A30?style=for-the-badge&logo=readme&logoColor=71DEAB" /></a>
+  <a href="#what-i-do"><img alt="Services" src="https://img.shields.io/badge/Services-173A30?style=for-the-badge&logo=wordpress&logoColor=71DEAB" /></a>
+  <a href="#featured-public-projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-173A30?style=for-the-badge&logo=github&logoColor=71DEAB" /></a>
+  <a href="#technologies--skills"><img alt="Skills" src="https://img.shields.io/badge/Skills-173A30?style=for-the-badge&logo=javascript&logoColor=71DEAB" /></a>
+  <a href="#github-activity"><img alt="GitHub Stats" src="https://img.shields.io/badge/GitHub%20Stats-173A30?style=for-the-badge&logo=github&logoColor=71DEAB" /></a>
+  <a href="#connect-with-me"><img alt="Contact" src="https://img.shields.io/badge/Contact-173A30?style=for-the-badge&logo=gmail&logoColor=71DEAB" /></a>
 </p>
 
-## 👨‍💻 About Akaeid Hasan
+## About Akaeid Hasan
+
+<img src="https://cdn.simpleicons.org/wordpressdotorg/41B983" height="22" width="22" alt="" />
 
 Hi, I’m **Akaeid Hasan,** a WordPress **Developer** specializing in building modern, fast, and fully responsive websites that help individuals and businesses grow online.
 
@@ -62,15 +64,17 @@ Alongside WordPress, I have working knowledge of **HTML, CSS, and JavaScript,** 
 src="https://img.shields.io/github/followers/akaeid-hasan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AkaeidHasanAH" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a> <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akaeid-hasan&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/badge/Profile-Visitors%20Welcome-41B983?style=flat-square&logo=github&logoColor=white" alt="Visitors welcome to Akaeid Hasan GitHub profile" />
 </p>
 
-## 🚀 What I Do
+## What I Do
 
-| 🌐 WordPress & Elementor | 🛒 WooCommerce |
+<img src="https://cdn.simpleicons.org/wordpressdotorg/41B983" height="22" width="22" alt="" />
+
+| WordPress & Elementor | WooCommerce |
 | :--- | :--- |
 | Custom WordPress websites, Elementor page designs, redesigns, landing pages, blogs, and portfolio websites. | WooCommerce store setup, product pages, shop layouts, responsive product grids, and storefront customization. |
-| **⚡ Website Performance** | **🎨 Frontend Development** |
+| **Website Performance** | **Frontend Development** |
 | WordPress speed optimization, responsive improvements, theme customization, and website maintenance. | HTML, CSS, JavaScript, Tailwind CSS, and interactive frontend components with an emphasis on usability. |
 
 ### Development Approach
@@ -80,24 +84,28 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
 - **Optimize:** Focus on usability, performance, and maintainable implementation.
 - **Improve:** Document work, troubleshoot problems, and continuously refine results.
 
-## 📌 Featured Public Projects
+## Featured Public Projects
+
+<img src="https://cdn.simpleicons.org/github/41B983" height="22" width="22" alt="" />
 
 Explore selected public repositories. These projects showcase real WordPress development and frontend work.
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| 🔐 [**UploadShield — WordPress Plugin**](https://github.com/akaeid-hasan/upload-shield) | WordPress image upload size limit plugin with configurable restrictions for administrators and other users. | WordPress, PHP |
-| 🌐 [**Portfolio Website**](https://github.com/akaeid-hasan/Portfolio---Website) | Personal developer portfolio showcasing WordPress and frontend experience. | Web Development |
-| 📄 [**Interactive Developer Resume**](https://github.com/akaeid-hasan/akaeidhasan-resume) | Responsive interactive resume with a [live preview](https://akaeid-hasan.github.io/akaeidhasan-resume/). | HTML, CSS, JavaScript |
-| 🧮 [**Modern Design Calculator**](https://github.com/akaeid-hasan/Modern-Design-Calculator) | Responsive calculator with real-time calculations and a clean dark interface. | HTML, Tailwind CSS, JavaScript |
-| 🕒 [**Digital Clock**](https://github.com/akaeid-hasan/Digital-Clock) | Real-time responsive digital clock built with vanilla JavaScript. | HTML, Tailwind CSS, JavaScript |
-| 🧩 [**JavaScript Tabs Component**](https://github.com/akaeid-hasan/MID-Exam-Tabs-Component) | Responsive tabs component with page-free section switching. | HTML, CSS, JavaScript |
+| [**UploadShield — WordPress Plugin**](https://github.com/akaeid-hasan/upload-shield) | WordPress image upload size limit plugin with configurable restrictions for administrators and other users. | WordPress, PHP |
+| [**Portfolio Website**](https://github.com/akaeid-hasan/Portfolio---Website) | Personal developer portfolio showcasing WordPress and frontend experience. | Web Development |
+| [**Interactive Developer Resume**](https://github.com/akaeid-hasan/akaeidhasan-resume) | Responsive interactive resume with a [live preview](https://akaeid-hasan.github.io/akaeidhasan-resume/). | HTML, CSS, JavaScript |
+| [**Modern Design Calculator**](https://github.com/akaeid-hasan/Modern-Design-Calculator) | Responsive calculator with real-time calculations and a clean dark interface. | HTML, Tailwind CSS, JavaScript |
+| [**Digital Clock**](https://github.com/akaeid-hasan/Digital-Clock) | Real-time responsive digital clock built with vanilla JavaScript. | HTML, Tailwind CSS, JavaScript |
+| [**JavaScript Tabs Component**](https://github.com/akaeid-hasan/MID-Exam-Tabs-Component) | Responsive tabs component with page-free section switching. | HTML, CSS, JavaScript |
 
 <p align="center">
   <a href="https://github.com/akaeid-hasan?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Public%20Repositories-41B983?style=for-the-badge&logo=github&logoColor=white" alt="Explore Akaeid Hasan public GitHub repositories" /></a>
 </p>
 
-## 🛠️ Technologies & Skills
+## Technologies & Skills
+
+<img src="https://cdn.simpleicons.org/javascript/41B983" height="22" width="22" alt="" />
 
 <p align="center"><strong>WordPress • Elementor • WooCommerce • HTML5 • CSS3 • JavaScript • Tailwind CSS • Bootstrap • React • Firebase • Figma</strong></p>
 
@@ -144,26 +152,28 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 </p>
 
 ### Skills Overview
 
-| Skill         | Level                          |
-|---------------|--------------------------------|
-| WordPress     | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (75%) |
-| Elementor     | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ (97%) |
-| WooCommerce   | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ (85%) |
-| HTML          | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ (85%) |
-| CSS           | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ (75%) |
-| Tailwind CSS  | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (65%) |
-| JavaScript    | 🔵🔵🔵⚪⚪⚪⚪⚪⚪⚪ (45%) |
-| React JS      | 🔵🔵🔵⚪⚪⚪⚪⚪⚪⚪ (45%) |
+| Skill | Progress |
+| :--- | :--- |
+| **WordPress** | ![WordPress 75%](https://geps.dev/progress/75?dangerColor=41b983&warningColor=41b983&successColor=41b983) **75%** |
+| **Elementor** | ![Elementor 97%](https://geps.dev/progress/97?dangerColor=41b983&warningColor=41b983&successColor=41b983) **97%** |
+| **WooCommerce** | ![WooCommerce 85%](https://geps.dev/progress/85?dangerColor=41b983&warningColor=41b983&successColor=41b983) **85%** |
+| **HTML** | ![HTML 85%](https://geps.dev/progress/85?dangerColor=41b983&warningColor=41b983&successColor=41b983) **85%** |
+| **CSS** | ![CSS 75%](https://geps.dev/progress/75?dangerColor=41b983&warningColor=41b983&successColor=41b983) **75%** |
+| **Tailwind CSS** | ![Tailwind CSS 65%](https://geps.dev/progress/65?dangerColor=41b983&warningColor=41b983&successColor=41b983) **65%** |
+| **JavaScript** | ![JavaScript 45%](https://geps.dev/progress/45?dangerColor=41b983&warningColor=41b983&successColor=41b983) **45%** |
+| **React JS** | ![React JS 45%](https://geps.dev/progress/45?dangerColor=41b983&warningColor=41b983&successColor=41b983) **45%** |
 
 > I primarily work with WordPress and Elementor, while continuing to strengthen my frontend development skills in JavaScript and React.
 
-## 💡 WordPress Development & Specializations
+## WordPress Development & Specializations
+
+<img src="https://cdn.simpleicons.org/woocommerce/41B983" height="22" width="22" alt="" />
 
 | WordPress Development | Website & Frontend |
 | :--- | :--- |
@@ -174,7 +184,9 @@ Explore selected public repositories. These projects showcase real WordPress dev
 | WordPress troubleshooting and maintenance | Portfolio and interactive frontend projects |
 | Website speed and performance optimization | User-friendly website experiences |
 
-## 🌍 Connect With Me
+## Connect With Me
+
+<img src="https://cdn.simpleicons.org/gmail/41B983" height="22" width="22" alt="" />
 
 <p>Looking for a WordPress Developer, Elementor Specialist, or a frontend developer to help with a website? Explore my work or get in touch through the links below.</p>
 
@@ -225,7 +237,9 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
 **Portfolio:** [akaeidhasan.com](https://akaeidhasan.com/) &nbsp; | &nbsp; **GitHub:** [@akaeid-hasan](https://github.com/akaeid-hasan)
 
-## 📊 GitHub Activity
+## GitHub Activity
+
+<img src="https://cdn.simpleicons.org/github/41B983" height="22" width="22" alt="" />
 
 ![Akaeid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&theme=radical)
 
@@ -234,17 +248,6 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
 ---
 
-## 📜 License
-
-<!--### 📄 License
-
-This GitHub profile design and content is licensed under  
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
-You may not use, reproduce, or modify this content for commercial or derivative use without permission.
-
-🔗 [Read Full License Terms Here](./LICENSE)-->
-
----
 ## License
 
 This project is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
