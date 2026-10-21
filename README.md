@@ -48,7 +48,7 @@
 
 ## About Akaeid Hasan
 
-<img src="https://cdn.simpleicons.org/wordpressdotorg/41B983" height="22" width="22" alt="" />
+<img src="./assets/icons/about.svg" height="28" width="28" alt="about section icon" />
 
 Hi, I’m **Akaeid Hasan,** a WordPress **Developer** specializing in building modern, fast, and fully responsive websites that help individuals and businesses grow online.
 
@@ -69,7 +69,7 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
 
 ## What I Do
 
-<img src="https://cdn.simpleicons.org/wordpressdotorg/41B983" height="22" width="22" alt="" />
+<img src="./assets/icons/services.svg" height="28" width="28" alt="services section icon" />
 
 | WordPress & Elementor | WooCommerce |
 | :--- | :--- |
@@ -86,7 +86,7 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
 
 ## Featured Public Projects
 
-<img src="https://cdn.simpleicons.org/github/41B983" height="22" width="22" alt="" />
+<img src="./assets/icons/projects.svg" height="28" width="28" alt="projects section icon" />
 
 Explore selected public repositories. These projects showcase real WordPress development and frontend work.
 
@@ -105,7 +105,7 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
 ## Technologies & Skills
 
-<img src="https://cdn.simpleicons.org/javascript/41B983" height="22" width="22" alt="" />
+<img src="./assets/icons/skills.svg" height="28" width="28" alt="skills section icon" />
 
 <p align="center"><strong>WordPress • Elementor • WooCommerce • HTML5 • CSS3 • JavaScript • Tailwind CSS • Bootstrap • React • Firebase • Figma</strong></p>
 
@@ -173,7 +173,7 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
 ## WordPress Development & Specializations
 
-<img src="https://cdn.simpleicons.org/woocommerce/41B983" height="22" width="22" alt="" />
+<img src="./assets/icons/specializations.svg" height="28" width="28" alt="specializations section icon" />
 
 | WordPress Development | Website & Frontend |
 | :--- | :--- |
@@ -186,7 +186,7 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
 ## Connect With Me
 
-<img src="https://cdn.simpleicons.org/gmail/41B983" height="22" width="22" alt="" />
+<img src="./assets/icons/contact.svg" height="28" width="28" alt="contact section icon" />
 
 <p>Looking for a WordPress Developer, Elementor Specialist, or a frontend developer to help with a website? Explore my work or get in touch through the links below.</p>
 
@@ -239,7 +239,7 @@ Explore selected public repositories. These projects showcase real WordPress dev
 
 ## GitHub Activity
 
-<img src="https://cdn.simpleicons.org/github/41B983" height="22" width="22" alt="" />
+<img src="./assets/icons/activity.svg" height="28" width="28" alt="activity section icon" />
 
 ![Akaeid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akaeid-hasan&show_icons=true&theme=radical)
 
