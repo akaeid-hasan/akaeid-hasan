@@ -77,6 +77,26 @@ src="https://img.shields.io/twitter/follow/AkaeidHasanAH?logo=twitter&style=for-
 | **Website Performance** | **Frontend Development** |
 | WordPress speed optimization, responsive improvements, theme customization, and website maintenance. | HTML, CSS, JavaScript, Tailwind CSS, and interactive frontend components with an emphasis on usability. |
 
+### More Services I Offer
+
+From personal portfolios and business websites to custom e-commerce experiences, I help build, improve, and maintain practical websites with WordPress, Elementor, WooCommerce, Shopify, and frontend technologies.
+
+| Website Design & Development | E-commerce, Optimization & Support |
+| :--- | :--- |
+| **WordPress Website Design & Development** | **WooCommerce / Shopify Store Setup** |
+| **Website Customization & Redesign** | **E-commerce Development** |
+| **Portfolio & Personal Websites** | **Speed Optimization & Mobile Responsiveness** |
+| **Blog / News Websites** | **On-Page SEO** |
+| **Booking, Real Estate, & Membership Websites** | **Multi-language Website Setup** |
+| **Educational / LMS Websites** | **Website Security Setup** |
+| **Landing Page Design** | **Website Migration** |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/7%20Days%20of%20Free%20Support-After%20Project%20Completion-41B983?style=for-the-badge&logo=wordpress&logoColor=white" alt="7 Days of Free Support after project completion" />
+</p>
+
+<p align="center"><strong>7 Days of Free Support</strong> after project completion to help with post-launch questions and minor adjustments.</p>
+
 ### Development Approach
 
 - **Discover:** Understand the website's purpose, audience, and user experience goals.
